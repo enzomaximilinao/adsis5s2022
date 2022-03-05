@@ -14,7 +14,7 @@ public class TestesIntrodutórios {
 		
 		total = calc.somar(15, 77.10);		
 		assertEquals(92.10, total, 0);
-
+		
 	}
 	@Test
 	public void teste2() {
@@ -25,5 +25,4 @@ public class TestesIntrodutórios {
 	@Test
 	public void teste4() {
 	}
-
 }
